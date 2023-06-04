@@ -5,6 +5,20 @@ This index provides an initial material to help HW engineers gather the basic kn
 
 # Tools
 
+## SW Tools and Calculators
+- [Free PCB Tool KiCAD](https://www.kicad.org/)
+- [Saturn PCB Design Toolkit](Saturn PCB Design Toolkit)
+- [Power Stage Designer](https://www.ti.com/tool/POWERSTAGE-DESIGNER)
+- [TI Webench](https://www.ti.com/design-resources/design-tools-simulation/webench-power-designer.html#design)
+- [Fuji Design tool PDF and excel for Flyback Transformer design](https://www.fujielectric.com/products/semiconductor/model/power_supply/tool/fly-back_transformer_design.html)
+
+## Low Cost and DIY HW Tools
+
+### Oscilloscopes 
+### PC based Logic Analyzers
+### Power Supplies
+### Function Generators
+
 # Other References – Text Books
 
 ## Entry level, Theoretical approach: 
