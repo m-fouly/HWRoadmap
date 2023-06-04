@@ -6,3 +6,14 @@ This index provides an initial material to help HW engineers gather the basic kn
 # Tools
 
 # Other References – Text Books
+
+## Entry level, Theoretical approach: 
+- Fundamentals of Power Electronics, Book by Dragan Maksimović and Robert Warren Erickson
+
+## Entry level, Practical approach: 
+- Switching Power Supplies A - Z, Book by Sanjaya Maniktala
+
+## Experienced level:
+- Troubleshooting Switching Power Converters: A Hands-on Guide, Book by Sanjaya Maniktala
+- Characteristics of Electrolytic Capacitors
+- Characteristics of Ceramic Capacitors
