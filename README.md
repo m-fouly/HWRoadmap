@@ -61,5 +61,5 @@ This index provides an initial material to help HW engineers gather the basic kn
 - Troubleshooting Switching Power Converters: A Hands-on Guide, Book by Sanjaya Maniktala
 - Characteristics of Electrolytic Capacitors
 - Characteristics of Ceramic Capacitors
-    - SW Tool of AVX Company: <https://spicat.kyocera-avx.com/mlcc>
-    - SW Tool of KEMET Company: <https://ksim3.kemet.com/capacitor-simulation>
+    - [SW Tool of AVX Company](https://spicat.kyocera-avx.com/mlcc)
+    - [SW Tool of KEMET Company](https://ksim3.kemet.com/capacitor-simulation)
